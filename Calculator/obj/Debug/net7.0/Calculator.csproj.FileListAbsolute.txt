@@ -1,0 +1,14 @@
+/Users/melis/Documents/my-projects/Calculator/Calculator/bin/Debug/net7.0/Calculator
+/Users/melis/Documents/my-projects/Calculator/Calculator/bin/Debug/net7.0/Calculator.deps.json
+/Users/melis/Documents/my-projects/Calculator/Calculator/bin/Debug/net7.0/Calculator.runtimeconfig.json
+/Users/melis/Documents/my-projects/Calculator/Calculator/bin/Debug/net7.0/Calculator.dll
+/Users/melis/Documents/my-projects/Calculator/Calculator/bin/Debug/net7.0/Calculator.pdb
+/Users/melis/Documents/my-projects/Calculator/Calculator/obj/Debug/net7.0/Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/melis/Documents/my-projects/Calculator/Calculator/obj/Debug/net7.0/Calculator.AssemblyInfoInputs.cache
+/Users/melis/Documents/my-projects/Calculator/Calculator/obj/Debug/net7.0/Calculator.AssemblyInfo.cs
+/Users/melis/Documents/my-projects/Calculator/Calculator/obj/Debug/net7.0/Calculator.csproj.CoreCompileInputs.cache
+/Users/melis/Documents/my-projects/Calculator/Calculator/obj/Debug/net7.0/Calculator.dll
+/Users/melis/Documents/my-projects/Calculator/Calculator/obj/Debug/net7.0/refint/Calculator.dll
+/Users/melis/Documents/my-projects/Calculator/Calculator/obj/Debug/net7.0/Calculator.pdb
+/Users/melis/Documents/my-projects/Calculator/Calculator/obj/Debug/net7.0/Calculator.genruntimeconfig.cache
+/Users/melis/Documents/my-projects/Calculator/Calculator/obj/Debug/net7.0/ref/Calculator.dll
